@@ -1,4 +1,3 @@
-// Open dropdown on click for touch devices
 const dropdowns = document.querySelectorAll('.dropdown');
 dropdowns.forEach((dropdown) => {
     dropdown.addEventListener('click', () => {
